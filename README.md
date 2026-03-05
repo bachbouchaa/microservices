@@ -168,16 +168,6 @@ python grpc_client.py
 
 ---
 
-## What This Report Is About
-
-Modern software systems rarely live on a single machine. They are made up of many services
-that talk to each other over a network. The question of *how* those services communicate
-is one of the most important architectural decisions you will make. This report examines
-four different answers to that question, explains the reasoning behind each one, and helps
-you understand when to choose which.
-
----
-
 ## Report Structure
 
 ### Section 1 — Introduction
